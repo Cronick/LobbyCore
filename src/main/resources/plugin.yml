@@ -1,0 +1,6 @@
+name: ${project.artifactId}
+version: ${project.version}
+author: Cronick
+main: com.cronick.LobbyCore.Main
+commands:
+ lobbyreload:
